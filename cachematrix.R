@@ -1,7 +1,8 @@
 ## Programming Assignment 2 - create a function to return the inverse of a matrix
 ## https://github.com/ckmitchell/ProgrammingAssignment2/cachematrix.R
-##
-## 
+
+## Note: DanieleP's 'PA2-clarifying_instructions' on GitHub was a big help for this assignment
+
 ## The first function, makeCacheMatrix, creates a special matrix, which is a list containing a function that:
 ## sets the value of the matrix
 ## gets the value of the matrix
